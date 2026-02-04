@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/版本-v2.0.26-blue?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/维护-24/7-orange?style=for-the-badge" />
 
-> **建议按下 `Ctrl + D` 收藏本页，防止失联。永久地址：github.com/lingxiaoge899-ux
+> **建议按下 `Ctrl + D` 收藏本页，防止失联。永久地址：https://lhwebgroup.github.io/LH-SAYS/
 
 </div>
 
