@@ -56,8 +56,8 @@
 
 ## 💬 联络中心
 <div align="left">
-  <a href="https://t.me/your_channel"><img src="https://img.shields.io/badge/Telegram-加入群聊-blue?style=flat-square&logo=telegram"></a>
-  <a href="mailto:admin@example.com"><img src="https://img.shields.io/badge/Email-联系我们-red?style=flat-square&logo=gmail"></a>
+  <a href="(https://t.me/wuyong_6789)"><img src="https://img.shields.io/badge/Telegram-加入群聊-blue?style=flat-square&logo=telegram"></a>
+  <a href="wy4456789@gmail.com"><img src="https://img.shields.io/badge/Email-联系我们-red?style=flat-square&logo=gmail"></a>
 </div>
 
 ---
